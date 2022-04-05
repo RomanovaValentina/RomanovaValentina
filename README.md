@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Valentina
 
-![]
-
 ## I'm a beginner QA engineer
 - 💪 I love doing product reviews
 - 🎉 Love group workouts and aesthetics
