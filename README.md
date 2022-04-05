@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Valentina
 
-<!--
-**RomanovaValentina/RomanovaValentina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]
 
 ## I'm a beginner QA engineer
 - 💪 I love doing product reviews
@@ -26,6 +25,8 @@
 [<img align="left" alt="RomanovaValentina | DBeaver " width="22px" src="https://user-images.githubusercontent.com/97470160/161750214-bf96ef42-e292-489e-b02d-b8d46fea98c8.svg" />]
 [<img align="left" alt="RomanovaValentina | GitHub " width="22px" src="https://br.atsit.in/ru/wp-content/uploads/2022/01/github-d0bfd0bed0b4d0b4d0b5d180d0b6d0b8d0b2d0b0d0b5d182-d0b4d0b2d183d185d184d0b0d0bad182d0bed180d0bdd183d18e-d0b0d183d182d0b5d0bdd182.svg" />]
 [<img align="left" alt="RomanovaValentina | Android Studio " width="22px" src="https://images.droidsans.com/wp-content/uploads/2014/12/Header_0_0.svg" />]
+
+<br />
 
 [linkedin]: https://www.linkedin.com/in/valentina-romanova-1b948922a/
 [instagram]: https://www.instagram.com/valentina__here/
